@@ -1,8 +1,8 @@
 """
 Coursework submission script: Exercises 1-8.
-When doing work I used indivdiual scrips, 
-done my best to consolide them down into one for ease of use when marking.
-football_data will be needed for Q8, I'll submit that along side my work.
+When doing work, I used indivdiual scrips, 
+done my best to consolidate them into one working script for ease of use when marking.
+football_data will be needed. I'll submit that alongside my work.
 Full repo can be found at: https://github.com/CameronWhitworth/SEMTM0051-Foundations-of-AI
 """
 import os
